@@ -1,0 +1,8 @@
+﻿  CFileErrCode.cpp
+C:\Users\cannu\Downloads\CFileErrCode.cpp(1,10): fatal error C1083: içerme dosyası açılamıyor: 'pch.h': No such file or directory
+  CFileLastError.cpp
+C:\Users\cannu\Downloads\CFileLastError.cpp(1,10): fatal error C1083: içerme dosyası açılamıyor: 'pch.h': No such file or directory
+  CFileThrowEx.cpp
+C:\Users\cannu\Downloads\CFileThrowEx.cpp(1,10): fatal error C1083: içerme dosyası açılamıyor: 'pch.h': No such file or directory
+  Kaynak.cpp
+  Kod Üretiliyor...
